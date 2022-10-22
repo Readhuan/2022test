@@ -2,7 +2,7 @@
 from selenium import webdriver
 import datetime
 import time
-
+#加一个内容测试
 def login():
     # 打开淘宝登录页，并进行扫码登录
     browser.get("https://www.jd.com")
